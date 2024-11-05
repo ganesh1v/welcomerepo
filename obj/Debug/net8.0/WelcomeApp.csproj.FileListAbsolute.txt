@@ -12,3 +12,4 @@ C:\Users\user\source\repos\FirstApp\WelcomeApp\obj\Debug\net8.0\refint\WelcomeAp
 C:\Users\user\source\repos\FirstApp\WelcomeApp\obj\Debug\net8.0\WelcomeApp.pdb
 C:\Users\user\source\repos\FirstApp\WelcomeApp\obj\Debug\net8.0\WelcomeApp.genruntimeconfig.cache
 C:\Users\user\source\repos\FirstApp\WelcomeApp\obj\Debug\net8.0\ref\WelcomeApp.dll
+C:\Users\user\source\repos\FirstApp\WelcomeApp\obj\Debug\net8.0\WelcomeApp.sourcelink.json
